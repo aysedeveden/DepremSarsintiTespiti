@@ -7,7 +7,7 @@
 ### Uygulama Başlangıç Ekranı
 
 
-<img  = src"[Screenshot_20240111_140558-min]" width ="200" height="200">
+< img  = src "[baslangic_ekrani.png]" width ="200" height="200">
 
 
 ## Video
