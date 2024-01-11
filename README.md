@@ -8,7 +8,7 @@
 <img src = "baslangic_ekrani.png" width ="500" height="500">
 
 
-![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d )
+
 
 
 
