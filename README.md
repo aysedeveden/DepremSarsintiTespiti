@@ -7,7 +7,7 @@
 ### Uygulama Başlangıç Ekranı
 ![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)
 
-< img src ="https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d" width ="400" height =" 400">
+< img src ="baslangic_ekrani.png" width ="400" height =" 400">
 
 
 
