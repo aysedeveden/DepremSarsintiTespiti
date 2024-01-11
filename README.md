@@ -12,7 +12,7 @@
 ## Video
 | deprem sarsıntı video |
 | ---------------------------- |
-![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/d7de415d-eab8-4d53-83d0-24ddb30f313e)
+|![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/d7de415d-eab8-4d53-83d0-24ddb30f313e)|
 buraya eklencekkkkkk video
 
 ## Home Screen
