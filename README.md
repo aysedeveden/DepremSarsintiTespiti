@@ -6,7 +6,7 @@
 
 ### Uygulama Başlangıç Ekranı
 
-
+![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)
 ![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/586d203e-966b-4755-a701-d14fc9da29e4)
 
 
