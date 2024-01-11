@@ -1,1 +1,1 @@
-#Deprem Sarsıntı Tespiti
+#Deprem
