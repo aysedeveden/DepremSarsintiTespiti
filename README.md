@@ -7,7 +7,8 @@
 ### Uygulama Başlangıç Ekranı
 
 
-<img  = src"![baslangic_ekrani.png]" widht ="200" height="200">
+<img  = src"[Screenshot_20240111_140558-min]" width ="200" height="200">
+
 
 ## Video
 | deprem sarsıntı video |
