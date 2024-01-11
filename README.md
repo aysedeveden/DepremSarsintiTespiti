@@ -5,7 +5,7 @@
   Deprem sarsıntısı tespiti uygulamasında, mobil cihazların içinde bulunan sensörlerin verilerini kullanarak, deprem sarsıntılarını ölçmeyi ve analiz etmeyi amaçlamaktadır. Bu uygulama, kullanıcıları potansiyel tehlikelere karşı uyarmak ve acil durum önlemleri alabilmeleri için gerekli bilgileri sağlamak üzere tasarlanmıştır.
 
 ### Uygulama Başlangıç Ekranı
-<img src = "baslangic_ekrani.png" width ="500" height="500">
+<img src = "baslangic_ekrani.png" width ="700" height="800">
 
 
 
