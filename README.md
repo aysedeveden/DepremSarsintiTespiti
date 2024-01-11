@@ -17,7 +17,7 @@ buraya eklencekkkkkk video
 ## Home Screen
 | Recipe List | SearchView |
 | ---------------------------- | ---------------------------- |
-|![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)| ![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)|
+|![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)| ----------- |
 
 </br>
 
