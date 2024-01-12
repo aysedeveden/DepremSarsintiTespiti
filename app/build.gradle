@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace 'com.example.sarsintitespiti1'
-        compileSdk 34
+    compileSdk 34
 
-        defaultConfig {
+    defaultConfig {
 
-            minSdk 24
+            minSdk 33
             targetSdk 33
 
         }
@@ -30,9 +30,11 @@ android {
 
 
 def lottieVersion = "3.4.0"
+
 dependencies {
-    implementation 'androidx.core:core-ktx:1.8.0'
-    implementation 'androidx.appcompat:appcompat:1.5.0'
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation'com.google.firebase:firebase-auth-ktx:22.3.0'
     implementation 'com.google.android.material:material:1.10.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
@@ -40,4 +42,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
     implementation "com.airbnb.android:lottie:$lottieVersion"
+
 }

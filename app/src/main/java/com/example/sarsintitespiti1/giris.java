@@ -25,7 +25,7 @@ public class giris extends AppCompatActivity {
             @Override
             public void onFinish() {
 
-                Intent intent = new Intent(giris.this, RegisterActivity.class);
+                Intent intent = new Intent(giris.this, MainActivity.class);
                 startActivity(intent);
             }
         };
