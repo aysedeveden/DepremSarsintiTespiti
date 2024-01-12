@@ -6,8 +6,9 @@
 
 ### Uygulama Başlangıç Ekranı
 
+|![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)| |
 
-< img  = src "[baslangic_ekrani.png]" width ="200" height="200">
+
 
 
 ## Video
@@ -16,12 +17,6 @@
 |![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/d7de415d-eab8-4d53-83d0-24ddb30f313e)|
 buraya eklencekkkkkk video
 
-## Home Screen
-| Recipe List | SearchView |
-| ---------------------------- | ---------------------------- |
-|![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)| |
-
-</br>
 
 
 
