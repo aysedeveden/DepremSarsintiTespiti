@@ -3,7 +3,7 @@
   Deprem sarsıntısı tespiti uygulamasında, mobil cihazların içinde bulunan sensörlerin verilerini kullanarak, deprem sarsıntılarını ölçmeyi ve analiz etmeyi amaçlamaktadır. Bu uygulama, kullanıcıları potansiyel tehlikelere karşı uyarmak ve acil durum önlemleri alabilmeleri için gerekli bilgileri sağlamak üzere tasarlanmıştır.
 
 ### Başlangıç Ekranı
-| Baslangiç Ekranı |
+| Başlangıç Ekranı |
 |    -------------------------------------------------------------------------------   |
 |![baslangic_ekranı](https://github.com/aysedeveden/SarsintiTespiti/assets/116079495/b754ddfb-fe5c-4fc0-9db1-aa56e8c95e2f)|
 3 saniyelik geri sayımın sırasında, Lottie tarafından desteklenen bu animasyon, kullanıcının dikkatini çeker ve uygulamanın işlevselliğini ve tasarımı için kullanıcıya fikir belirlemeyi sunar.
