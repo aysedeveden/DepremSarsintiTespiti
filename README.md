@@ -12,7 +12,7 @@
 ### Sarsıntı Tespit Ekranı
 | Sarsıntı Olmadan Önce | Sarsıntı Sonrası |
 | ---------------- |    ----------------  |
-|![Screenshot_20240112_195425](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/27c41d86-9f47-49e6-8701-22fabb65d6dd)|![Screenshot_son ](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/efa38f71-d24a-4335-b6ee-05ccc0c49698)|
+|![Screenshot_20240112_195425](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/27c41d86-9f47-49e6-8701-22fabb65d6dd)|![Screenshot_son (https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/efa38f71-d24a-4335-b6ee-05ccc0c49698)|
 
 
 
