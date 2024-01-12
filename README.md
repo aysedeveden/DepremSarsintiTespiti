@@ -13,20 +13,9 @@
 | Sarsıntı Olmadan Önce | Sarsıntı Sonrası |
 | ---------------- |    ----------------  |
 |![Screenshot_20240112_195425](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/27c41d86-9f47-49e6-8701-22fabb65d6dd)|![Screenshot_son ](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/efa38f71-d24a-4335-b6ee-05ccc0c49698)|
+Uygulama, Android Studio'nun sunmuş olduğu virtual sensor üzerinden emülatörün "x,y,z" eksenleri değiştirilerek sanal bir deprem sarsıntısı simülasyonu gerçekleştirilir. Bu verileri, ortalama filtreleme ve türev filtreleme algoritmalarını kullanarak işler. Eğer bir deprem sarsıntısı tespit edilirse, kullanıcıya bildirim gönderir.
 
-
-
-
-
-
-## Video
-| deprem sarsıntı video |
-| ---------------------------- |
-|![Screenshot_20240111_140558-min](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/d7de415d-eab8-4d53-83d0-24ddb30f313e)|
-buraya eklencekkkkkk video
-
-
-
+</br>
 
 
 
