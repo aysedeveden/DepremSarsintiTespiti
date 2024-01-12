@@ -5,7 +5,7 @@
 ### Başlangıç Ekranı
 | Baslangiç Ekranı |
 |    -------------------------------------------------------------------------------   |
-|![baslangic_ekrani.png](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/99933701-eff0-4af1-806d-207873274e8d)| |
+|![baslangic_ekranı](https://github.com/aysedeveden/DepremSarsintiTespiti/assets/116079495/b9cbc344-9b31-4472-aae4-5bcb07d22a54)|
 3 saniyelik geri sayımın sırasında, Lottie tarafından desteklenen bu animasyon, kullanıcının dikkatini çeker ve uygulamanın işlevselliğini ve tasarımı için kullanıcıya fikir belirlemeyi sunar.
 
 
